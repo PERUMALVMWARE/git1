@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -ExecutionPolicy Bypass -File \"c:\\\\Users\\\\vboxuser\\\\Desktop\\\\GIT1\\\\disk-info.ps1\")"
+    ]
+  }
+}
